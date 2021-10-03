@@ -10,6 +10,11 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   * [Creative tools](#web-designer-tools)
 * [NFT Creators](#nft-creators)
   * [NFT Marketplaces](#nft-marketplaces)
+* [Photographers](#photographers)
+  * [Photography Communities](#photography-communities)
+* [Resources](#resources)
+  * [Free Photographies](#free-photographies)
+
 
 ## Web Designers
 
@@ -27,3 +32,24 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [OpenSea](https://opensea.io/)
 - [**makers**place](https://makersplace.com/)
 
+# Photographers
+
+## Photography communities
+*Join photographers from all around the world.*
+
+- [500px](https://500px.com)
+- [flickr](https://www.flickr.com/)
+- [vsco](vsco.co.co)
+
+## Software
+*Software for photographers.*
+
+- Adobe [Photoshop](https://www.adobe.com/products/photoshop/), [Lightroom](https://www.adobe.com/products/photoshop-lightroom/)
+- [Luminar](https://skylum.com/luminar)
+
+# Resources
+
+## Free Photographies
+*High-quality free photographies for your projects.*
+
+- [unsplash](https://unsplash.com/)
