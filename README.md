@@ -21,7 +21,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ### Web Designer Tools
 *Creative tools for web, ui, ux designers.*
 
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/) ([@figmadesign](https://twitter.com/figmadesign))
 
 ## NFT Creators
 *Resources for NFT creators.*
@@ -29,15 +29,15 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ### NFT Marketplaces
 *Online marketplaces to sell/purchase your digital tokens.*
 
-- [OpenSea](https://opensea.io/)
-- [**makers**place](https://makersplace.com/)
+- [OpenSea](https://opensea.io/) ([@opensea](https://twitter.com/opensea))
+- [**makers**place](https://makersplace.com/) ([@makersplaceco](https://twitter.com/makersplaceco))
 
 # Photographers
 
 ## Photography communities
 *Join photographers from all around the world.*
 
-- [500px](https://500px.com)
+- [500px](https://500px.com) ([@500px](https://twitter.com/500px))
 - [flickr](https://www.flickr.com/)
 - [vsco](vsco.co.co)
 
