@@ -1,4 +1,4 @@
-# awesome-creatives
+# Awesome Resources for Creatives
 
 A currated list of awesome creatives, tools, and resources. Each section is tailored towards a specific creative discipline. We'll cover web designers all the way to photographers.
 
