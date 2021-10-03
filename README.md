@@ -14,7 +14,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   * [Photography Communities](#photography-communities)
 * [Resources](#resources)
   * [Free Photographies](#free-photographies)
-
+  * [Free Icons](#free-icons)
 
 ## Web Designers
 
@@ -22,6 +22,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Creative tools for web, ui, ux designers.*
 
 - [Figma](https://www.figma.com/) ([@figmadesign](https://twitter.com/figmadesign))
+- [WebFlow](https://webflow.com) ([@webflow](https://twitter.com/webflow))
 
 ## NFT Creators
 *Resources for NFT creators.*
@@ -38,8 +39,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Join photographers from all around the world.*
 
 - [500px](https://500px.com) ([@500px](https://twitter.com/500px))
-- [flickr](https://www.flickr.com/)
-- [vsco](vsco.co.co)
+- [flickr](https://www.flickr.com/) ([@flickr](https://twitter.com/flickr))
+- [vsco](https://vsco.co) ([@vsco](https://twitter.com/vsco))
 
 ## Software
 *Software for photographers.*
@@ -53,3 +54,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *High-quality free photographies for your projects.*
 
 - [unsplash](https://unsplash.com/)
+
+## Free icons
+*High-quality icons for your projects.*
+
+- [Google Icons](https://fonts.google.com/icons)
+- [iconmonstr](https://iconmonstr.com/) ([@iconmonstr](https://twitter.com/iconmonstr))
