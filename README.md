@@ -1,6 +1,7 @@
 # awesome-creatives
 
-A currated list of awesome creatives, tools, and resources. 
+A currated list of awesome creatives, tools, and resources. Each section is tailored towards a specific creative discipline. We'll cover web designers all the way to photographers.
+
 Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Table of Content
