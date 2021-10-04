@@ -6,9 +6,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Table of Content
 
-* [UI/UX Designers](#ui-ux-designers)
-  * [UI/UX Designer Communities](#ui-ux-designer-communities)
-  * [UI/UX Designer Tools](#ui-ux-designer-tools)
+* [UI/UX Designers](#uiux-designers)
+  * [UI/UX Designer Communities](#uiux-designer-communities)
+  * [UI/UX Designer Tools](#uiux-designer-tools)
 * [NFT Creators](#nft-creators)
   * [NFT Marketplaces](#nft-marketplaces)
 * [Photographers](#photographers)
