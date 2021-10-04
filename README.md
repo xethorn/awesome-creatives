@@ -13,6 +13,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   * [NFT Marketplaces](#nft-marketplaces)
 * [Photographers](#photographers)
   * [Photography Communities](#photography-communities)
+  * [Photography Tools](#photography-tools)
 * [Resources](#resources)
   * [Portfolio](#portfolio) 
     * [Online Portfolio](#online-portfolio)
@@ -55,7 +56,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [flickr](https://www.flickr.com/) ([@flickr](https://twitter.com/flickr))
 - [vsco](https://vsco.co) ([@vsco](https://twitter.com/vsco))
 
-## Software
+## Photography Tools
 *Software for photographers.*
 
 - Adobe [Photoshop](https://www.adobe.com/products/photoshop/), [Lightroom](https://www.adobe.com/products/photoshop-lightroom/)
