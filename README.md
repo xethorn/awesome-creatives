@@ -61,6 +61,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - Adobe [Photoshop](https://www.adobe.com/products/photoshop/), [Lightroom](https://www.adobe.com/products/photoshop-lightroom/)
 - [Luminar](https://skylum.com/luminar)
+- [PixieSet](https://pixieset.com/) ([@pixiesetapp](https://twitter.com/pixiesetapp)) includes client gallery management.
 
 # Resources
 
