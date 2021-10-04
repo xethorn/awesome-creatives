@@ -89,6 +89,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Adobe Portfolio](https://portfolio.adobe.com/)
 - [craftcms](https://craftcms.com/) ([@craftcms](https://twitter.com/craftcms))
+- [Fabrik](https://fabrik.io/) ([@fabriktweets](https://twitter.com/fabriktweets))
 - [format](https://www.format.com/) ([@format](https://twitter.com/useformat))
 - [squarespace](https://www.squarespace.com/tour/portfolio-website) ([@squarespace](https://twitter.com/squarespace))
 - [wordpress](https://wordpress.com/) ([@wordpress](https://twitter.com/wordpress))
