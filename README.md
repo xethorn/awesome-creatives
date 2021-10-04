@@ -25,6 +25,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Figma](https://www.figma.com/) ([@figmadesign](https://twitter.com/figmadesign))
 - [WebFlow](https://webflow.com) ([@webflow](https://twitter.com/webflow))
+- [Sketch](https://www.sketch.com/) ([@sketch](https://twitter.com/sketch))
 
 ## NFT Creators
 *Resources for NFT creators.*
