@@ -79,6 +79,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *High-quality free photographies for your projects.*
 
 - [unsplash](https://unsplash.com/)
+- [Pexels](https://www.pexels.com/) ([@pexels](https://twitter.com/pexels))
 
 ## Free icons
 *High-quality icons for your projects.*
