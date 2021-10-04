@@ -28,6 +28,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Awwwards](https://www.awwwards.com/) ([@awwwards](https://twitter.com/awwwards))
 - [Designer News](https://www.designernews.co/)
 - [Dribbble](https://dribbble.com/) ([@dribbble](https://twitter.com/dribbble))
+- [Smashing Magazine](https://www.smashingmagazine.com/) ([@smashingmag](https://twitter.com/smashingmag))
 
 ### UI/UX Designer Tools
 *Creative tools for ui, ux designers.*
