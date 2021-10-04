@@ -6,8 +6,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Table of Content
 
-* [Web Designers](#web-designers)
-  * [Creative tools](#web-designer-tools)
+* [UI/UX Designers](#ui-ux-designers)
+  * [UI/UX Designer Communities](#ui-ux-designer-communities)
+  * [UI/UX Designer Tools](#ui-ux-designer-tools)
 * [NFT Creators](#nft-creators)
   * [NFT Marketplaces](#nft-marketplaces)
 * [Photographers](#photographers)
@@ -18,10 +19,17 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   * [Free Photographies](#free-photographies)
   * [Free Icons](#free-icons)
 
-## Web Designers
+## UI/UX Designers
 
-### Web Designer Tools
-*Creative tools for web, ui, ux designers.*
+### UI/UX Designer Communities
+*Online communities for ui, ux designers.*
+
+- [Awwwards](https://www.awwwards.com/) ([@awwwards](https://twitter.com/awwwards))
+- [Designer News](https://www.designernews.co/)
+- [Dribbble](https://dribbble.com/) ([@dribbble](https://twitter.com/dribbble))
+
+### UI/UX Designer Tools
+*Creative tools for ui, ux designers.*
 
 - [Figma](https://www.figma.com/) ([@figmadesign](https://twitter.com/figmadesign))
 - [Google Web Designer](https://webdesigner.withgoogle.com/)
