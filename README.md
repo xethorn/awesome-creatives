@@ -47,8 +47,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 ### NFT Marketplaces
 *Online marketplaces to sell/purchase your digital tokens.*
 
-- [OpenSea](https://opensea.io/) ([@opensea](https://twitter.com/opensea))
+- [crypto](https://crypto.com/nft/) ([@cryptocomnft](https://twitter.com/cryptocomnft))
 - [**makers**place](https://makersplace.com/) ([@makersplaceco](https://twitter.com/makersplaceco))
+- [OpenSea](https://opensea.io/) ([@opensea](https://twitter.com/opensea))
 
 # Photographers
 
