@@ -90,7 +90,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [craftcms](https://craftcms.com/) ([@craftcms](https://twitter.com/craftcms))
 - [wordpress](https://wordpress.com/) ([@wordpress](https://twitter.com/wordpress))
 - [squarespace](https://www.squarespace.com/tour/portfolio-website) ([@squarespace](https://twitter.com/squarespace))
-
+- [wix](https://www.wix.com/) ([@wix](https://wix.com))
+ 
 ## Free Photographies
 *High-quality free photographies for your projects.*
 
