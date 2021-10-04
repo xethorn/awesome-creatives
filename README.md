@@ -24,8 +24,9 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 *Creative tools for web, ui, ux designers.*
 
 - [Figma](https://www.figma.com/) ([@figmadesign](https://twitter.com/figmadesign))
-- [WebFlow](https://webflow.com) ([@webflow](https://twitter.com/webflow))
+- [Google Web Designer](https://webdesigner.withgoogle.com/)
 - [Sketch](https://www.sketch.com/) ([@sketch](https://twitter.com/sketch))
+- [WebFlow](https://webflow.com) ([@webflow](https://twitter.com/webflow))
 
 ## NFT Creators
 *Resources for NFT creators.*
