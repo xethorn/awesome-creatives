@@ -14,6 +14,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Photographers](#photographers)
   * [Photography Communities](#photography-communities)
   * [Photography Tools](#photography-tools)
+  * [Photography Tutorials](#photography-tutorials)
 * [Resources](#resources)
   * [Portfolio](#portfolio) 
     * [Online Portfolio](#online-portfolio)
@@ -64,6 +65,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - Adobe [Photoshop](https://www.adobe.com/products/photoshop/), [Lightroom](https://www.adobe.com/products/photoshop-lightroom/)
 - [Luminar](https://skylum.com/luminar)
 - [PixieSet](https://pixieset.com/) ([@pixiesetapp](https://twitter.com/pixiesetapp)) includes client gallery management.
+
+## Photography Tutorials
+*Tutorials to learn photography online.*
+
+- [PhotoTuts+](https://photography.tutsplus.com/)
+- [The School Photography](https://www.theschoolofphotography.com/tutorials)
 
 # Resources
 
