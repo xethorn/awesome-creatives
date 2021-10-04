@@ -15,6 +15,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   * [Photography Communities](#photography-communities)
   * [Photography Tools](#photography-tools)
   * [Photography Tutorials](#photography-tutorials)
+  * [Photography Materials](#photography-materials)
 * [Resources](#resources)
   * [Portfolio](#portfolio) 
     * [Online Portfolio](#online-portfolio)
@@ -58,6 +59,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Behance](https://www.behance.net/) ([@behance](https://twitter.com/behance))
 - [flickr](https://www.flickr.com/) ([@flickr](https://twitter.com/flickr))
 - [vsco](https://vsco.co) ([@vsco](https://twitter.com/vsco))
+
+## Photography Materials
+*Purchase materials for your business, from cameras to tripods.*
+
+- [BH Photo](https://www.bhphotovideo.com/) (US)
+- [Samy's](https://www.samys.com/) (US)
 
 ## Photography Tools
 *Software for photographers.*
