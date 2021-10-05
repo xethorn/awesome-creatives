@@ -14,6 +14,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [Photography](#photography)
   * [Photography Communities](#photography-communities)
   * [Photography Tools](#photography-tools)
+  * [Photography Organizers](#photography-organizers)
   * [Photography Tutorials](#photography-tutorials)
   * [Photography Materials](#photography-materials)
 * [Resources](#resources)
@@ -74,11 +75,19 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Luminar](https://skylum.com/luminar)
 - [PixieSet](https://pixieset.com/) ([@pixiesetapp](https://twitter.com/pixiesetapp)) includes client gallery management.
 
+## Photography Organizers
+*Software to keep your images organized.*
+
+- [Adobe Bridge](https://www.adobe.com/in/products/bridge.html) – Creative asset manager that lets you preview, organise, edit and publish multiple creative assets.
+- [Google Photo](https://photos.google.com) – Home for all your photos and videos, automatically organized and easy to share.
+- [Lychee](https://lychee.electerious.com/) – Free photo-management tool, which runs on your server or web-space.
+
 ## Photography Tutorials
 *Tutorials to learn photography online.*
 
 - [PhotoTuts+](https://photography.tutsplus.com/)
 - [The School Photography](https://www.theschoolofphotography.com/tutorials)
+
 
 # Resources
 
