@@ -6,12 +6,12 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Table of Content
 
-* [UI/UX Designers](#uiux-designers)
+* [UI/UX Design](#uiux-design)
   * [UI/UX Designer Communities](#uiux-designer-communities)
   * [UI/UX Designer Tools](#uiux-designer-tools)
-* [NFT Creators](#nft-creators)
+* [NFT](#nft)
   * [NFT Marketplaces](#nft-marketplaces)
-* [Photographers](#photographers)
+* [Photography](#photography)
   * [Photography Communities](#photography-communities)
   * [Photography Tools](#photography-tools)
   * [Photography Tutorials](#photography-tutorials)
@@ -23,7 +23,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
   * [Free Icons](#free-icons)
 * [Events](#events)
 
-## UI/UX Designers
+## UI/UX Design
 
 ### UI/UX Designer Communities
 *Online communities for ui, ux designers.*
@@ -41,7 +41,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Sketch](https://www.sketch.com/) ([@sketch](https://twitter.com/sketch))
 - [WebFlow](https://webflow.com) ([@webflow](https://twitter.com/webflow))
 
-## NFT Creators
+## NFT
 *Resources for NFT creators.*
 
 ### NFT Marketplaces
@@ -51,7 +51,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 - [**makers**place](https://makersplace.com/) ([@makersplaceco](https://twitter.com/makersplaceco))
 - [OpenSea](https://opensea.io/) ([@opensea](https://twitter.com/opensea))
 
-# Photographers
+# Photography
 
 ## Photography communities
 *Join photographers from all around the world.*
